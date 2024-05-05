@@ -44,7 +44,7 @@ I’m a Full Stack Web Developer , I am passionate about using technology to sol
 ## 📊 GitHub Status:
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300">
 
-![](https://github-readme-stats.vercel.app/api?username=sohandahatonde&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=sohandahatonde&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sohandahatonde&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sohandahatonde&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
