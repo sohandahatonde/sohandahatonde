@@ -1,4 +1,4 @@
-[![MasterHead](https://www.elegantprodesigns.com//Elegant-Admin/images/web-elegant.jpg)]()
+[![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/125/969/desktop-wallpaper-web-development-posted-by-sarah-anderson-full-stack.jpg)]()
 <h1 align="center">Hi 👋, I'm Sohan Dahatonde</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
